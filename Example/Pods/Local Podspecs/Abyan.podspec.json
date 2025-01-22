@@ -1,0 +1,22 @@
+{
+  "name": "Abyan",
+  "version": "0.1.0",
+  "summary": "A short description of Abyan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Amani95-AT/Abyan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amani95-AT": "atawalbeh@blessedtreeit.com"
+  },
+  "source": {
+    "git": "https://github.com/Amani95-AT/Abyan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Abyan/Classes/**/*"
+}
