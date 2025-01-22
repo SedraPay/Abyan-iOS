@@ -1,6 +1,0 @@
-use_frameworks!
-target 'Abyan_Tests' do
-  pod 'Abyan', :path => '../'
-  
-  
-end
