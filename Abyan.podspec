@@ -10,7 +10,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'Abyan'
-s.version          = '0.1.2'
+s.version          = '0.1.3'
 s.summary          = 'Find the liveness of your app user and to check if the ID image is similar to the photo of the user, extract info from ID and passport.'
 
 s.homepage         = 'https://github.com/SedraPay/Abyan-iOS'
@@ -22,7 +22,7 @@ s.source           = { :git => 'https://github.com/SedraPay/Abyan-iOS.git', :tag
 #s.source_files     = 'Abyan/Classes/**/*.{h,m,swift}'
 s.swift_version      = "5.3"
 s.ios.deployment_target = '11.0'
-s.static_framework = true
+s.static_framework = false
 
 # Use the xcframework
   s.vendored_frameworks = "Abyan.xcframework"
