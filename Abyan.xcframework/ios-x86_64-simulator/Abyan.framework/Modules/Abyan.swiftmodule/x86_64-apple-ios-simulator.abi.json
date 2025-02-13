@@ -27252,7 +27252,7 @@
           {
             "kind": "Function",
             "name": "setSettings",
-            "printedName": "setSettings(serverKey:serverURLString:_:_:)",
+            "printedName": "setSettings(serverKey:serverURLString:_:_:referenceKey:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -27292,11 +27292,26 @@
                 "printedName": "Abyan.AbyanJourneyType",
                 "hasDefaultArg": true,
                 "usr": "s:5Abyan0A11JourneyTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:5AbyanAAC11setSettings9serverKey0D9URLString__ySS_SSSgSbAA0A11JourneyTypeOtKF",
-            "mangledName": "$s5AbyanAAC11setSettings9serverKey0D9URLString__ySS_SSSgSbAA0A11JourneyTypeOtKF",
+            "usr": "s:5AbyanAAC11setSettings9serverKey0D9URLString__09referenceE0ySS_SSSgSbAA0A11JourneyTypeOAGtKF",
+            "mangledName": "$s5AbyanAAC11setSettings9serverKey0D9URLString__09referenceE0ySS_SSSgSbAA0A11JourneyTypeOAGtKF",
             "moduleName": "Abyan",
             "declAttributes": [
               "Final",

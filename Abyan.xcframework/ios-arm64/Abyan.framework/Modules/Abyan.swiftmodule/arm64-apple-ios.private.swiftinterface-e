@@ -429,7 +429,7 @@ public protocol AbyanJourneyDelegate : ObjectiveC.NSObjectProtocol {
   final public var livenessImage: UIKit.UIImage?
   final public var livenessImageId: Swift.String?
   final public var imagesIds: [Abyan.ServerImageDocument]?
-  final public func setSettings(serverKey: Swift.String, serverURLString: Swift.String?, _ needsLogging: Swift.Bool = false, _ journeyType: Abyan.AbyanJourneyType = .new) throws
+  final public func setSettings(serverKey: Swift.String, serverURLString: Swift.String?, _ needsLogging: Swift.Bool = false, _ journeyType: Abyan.AbyanJourneyType = .new, referenceKey: Swift.String? = nil) throws
   final public func getNationalities()
   @objc deinit
 }
