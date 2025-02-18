@@ -480,7 +480,19 @@ public protocol AbyanLivenessCheckDelegate {
 public struct ServerImageDocument {
 }
 public struct AbyanKYCFieldModel : Swift.Codable {
-  public var formId: Swift.Int?
+  public var formId: Swift.Int?, productId: Swift.Int?
+  public var isFormReadOnly: Swift.Bool?
+  public var isUpdated: Swift.Bool?
+  public var tenantId: Swift.Int?, transactionID: Swift.Int?
+  public var journeyGuid: Swift.String?, createdDate: Swift.String?, expiredDate: Swift.String?
+  public var isNewValue: Swift.Bool?, isModelNeedUpdate: Swift.Bool?, isApprovedByUser: Swift.Bool?
+  public var modificationTime: Swift.String?
+  public var isReturnedToClient: Swift.Bool?
+  public var isNewFieldAdded: Swift.Bool?
+  public var isHint: Swift.Bool?
+  public var placeHolder: Swift.String?
+  public var isContractApproved: Swift.Bool?
+  public var formType: Swift.Int?
   public var steps: [Abyan.AbyanKYCFieldItem]?
   public var isSuccess: Swift.Bool?
   public var errors: [Swift.String]?
@@ -493,6 +505,7 @@ public struct AbyanKYCFieldItem : Swift.Codable {
   public var dynamicFields: [Abyan.AbyanKYCDynamicField]?
   public var description: Swift.String?
   public var code: Swift.Int?
+  public var id: Swift.Int?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -505,10 +518,11 @@ public struct AbyanKYCDynamicField : Swift.Codable {
   public var dateMin: Swift.String?
   public var dateMax: Swift.String?
   public var dataType: Abyan.AbyanKYCFieldType?
-  public var value: Swift.String?
+  public var value: Swift.String?, valueAr: Swift.String?, currentValue: Swift.String?, newValue: Swift.String?
   public var isRequired: Swift.Bool?
   public var isReadOnly: Swift.Bool?
   public var enumeratedValues: [Abyan.AbyanKYCDynamicFieldEnumeratedValue]?
+  public var documentID: Swift.Int?
   public var validationRegEx: Swift.String?
   public var regExErrorMessage: Swift.String?
   public var hint: Swift.String?
@@ -519,6 +533,11 @@ public struct AbyanKYCDynamicField : Swift.Codable {
   public var selectedFileName: Swift.String?
   public var imageData: Foundation.Data?
   public var selectedImageName: Swift.String?
+  public var isNeedUpdate: Swift.Bool?, isNewField: Swift.Bool?, isAPIIntegration: Swift.Bool?
+  public var isRowNeedUpdate: Swift.Bool?
+  public var isNewRow: Swift.Bool?, isNeedVerfication: Swift.Bool?, isHint: Swift.Bool?, requiredToApproved: Swift.Bool?
+  public var placeHolder: Swift.String?
+  public var enable24Hours: Swift.Bool?, enableSeconds: Swift.Bool?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -547,6 +566,7 @@ public enum AbyanKYCFieldType : Swift.Int, Swift.Codable {
   case number
   case address
   case textEditor
+  case yesNo
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {

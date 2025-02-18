@@ -29428,6 +29428,1986 @@
           },
           {
             "kind": "Var",
+            "name": "productId",
+            "printedName": "productId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV9productIdSiSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV9productIdSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9productIdSiSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9productIdSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9productIdSiSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9productIdSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9productIdSiSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9productIdSiSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isFormReadOnly",
+            "printedName": "isFormReadOnly",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV14isFormReadOnlySbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isUpdated",
+            "printedName": "isUpdated",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV9isUpdatedSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV9isUpdatedSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9isUpdatedSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9isUpdatedSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9isUpdatedSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9isUpdatedSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV9isUpdatedSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV9isUpdatedSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tenantId",
+            "printedName": "tenantId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV8tenantIdSiSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV8tenantIdSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8tenantIdSiSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8tenantIdSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8tenantIdSiSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8tenantIdSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8tenantIdSiSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8tenantIdSiSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "transactionID",
+            "printedName": "transactionID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV13transactionIDSiSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV13transactionIDSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV13transactionIDSiSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV13transactionIDSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV13transactionIDSiSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV13transactionIDSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV13transactionIDSiSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV13transactionIDSiSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "journeyGuid",
+            "printedName": "journeyGuid",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV11journeyGuidSSSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV11journeyGuidSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11journeyGuidSSSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11journeyGuidSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11journeyGuidSSSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11journeyGuidSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11journeyGuidSSSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11journeyGuidSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "createdDate",
+            "printedName": "createdDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV11createdDateSSSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV11createdDateSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11createdDateSSSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11createdDateSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11createdDateSSSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11createdDateSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11createdDateSSSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11createdDateSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "expiredDate",
+            "printedName": "expiredDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV11expiredDateSSSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV11expiredDateSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11expiredDateSSSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11expiredDateSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11expiredDateSSSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11expiredDateSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11expiredDateSSSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11expiredDateSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNewValue",
+            "printedName": "isNewValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV10isNewValueSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV10isNewValueSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV10isNewValueSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV10isNewValueSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV10isNewValueSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV10isNewValueSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV10isNewValueSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV10isNewValueSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isModelNeedUpdate",
+            "printedName": "isModelNeedUpdate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV02isC10NeedUpdateSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isApprovedByUser",
+            "printedName": "isApprovedByUser",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16isApprovedByUserSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "modificationTime",
+            "printedName": "modificationTime",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV16modificationTimeSSSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV16modificationTimeSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16modificationTimeSSSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16modificationTimeSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16modificationTimeSSSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16modificationTimeSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV16modificationTimeSSSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV16modificationTimeSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isReturnedToClient",
+            "printedName": "isReturnedToClient",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isReturnedToClientSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNewFieldAdded",
+            "printedName": "isNewFieldAdded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV15isNewFieldAddedSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isHint",
+            "printedName": "isHint",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV6isHintSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV6isHintSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV6isHintSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV6isHintSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV6isHintSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV6isHintSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV6isHintSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV6isHintSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "placeHolder",
+            "printedName": "placeHolder",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV11placeHolderSSSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV11placeHolderSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11placeHolderSSSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11placeHolderSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11placeHolderSSSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11placeHolderSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV11placeHolderSSSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV11placeHolderSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isContractApproved",
+            "printedName": "isContractApproved",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV18isContractApprovedSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "formType",
+            "printedName": "formType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A13KYCFieldModelV8formTypeSiSgvp",
+            "mangledName": "$s5Abyan0A13KYCFieldModelV8formTypeSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8formTypeSiSgvg",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8formTypeSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8formTypeSiSgvs",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8formTypeSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A13KYCFieldModelV8formTypeSiSgvM",
+                "mangledName": "$s5Abyan0A13KYCFieldModelV8formTypeSiSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "steps",
             "printedName": "steps",
             "children": [
@@ -30467,6 +32447,116 @@
                 "declKind": "Accessor",
                 "usr": "s:5Abyan0A12KYCFieldItemV4codeSiSgvM",
                 "mangledName": "$s5Abyan0A12KYCFieldItemV4codeSiSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A12KYCFieldItemV2idSiSgvp",
+            "mangledName": "$s5Abyan0A12KYCFieldItemV2idSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A12KYCFieldItemV2idSiSgvg",
+                "mangledName": "$s5Abyan0A12KYCFieldItemV2idSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A12KYCFieldItemV2idSiSgvs",
+                "mangledName": "$s5Abyan0A12KYCFieldItemV2idSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A12KYCFieldItemV2idSiSgvM",
+                "mangledName": "$s5Abyan0A12KYCFieldItemV2idSiSgvM",
                 "moduleName": "Abyan",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -31560,6 +33650,336 @@
           },
           {
             "kind": "Var",
+            "name": "valueAr",
+            "printedName": "valueAr",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV7valueArSSSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV7valueArSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV7valueArSSSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV7valueArSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV7valueArSSSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV7valueArSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV7valueArSSSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV7valueArSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "currentValue",
+            "printedName": "currentValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV12currentValueSSSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV12currentValueSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12currentValueSSSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12currentValueSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12currentValueSSSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12currentValueSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12currentValueSSSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12currentValueSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "newValue",
+            "printedName": "newValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV8newValueSSSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV8newValueSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8newValueSSSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8newValueSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8newValueSSSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8newValueSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8newValueSSSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8newValueSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "isRequired",
             "printedName": "isRequired",
             "children": [
@@ -31906,6 +34326,116 @@
                 "declKind": "Accessor",
                 "usr": "s:5Abyan0A15KYCDynamicFieldV16enumeratedValuesSayAA0abC15EnumeratedValueVGSgvM",
                 "mangledName": "$s5Abyan0A15KYCDynamicFieldV16enumeratedValuesSayAA0abC15EnumeratedValueVGSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "documentID",
+            "printedName": "documentID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV10documentIDSiSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV10documentIDSiSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV10documentIDSiSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV10documentIDSiSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV10documentIDSiSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV10documentIDSiSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV10documentIDSiSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV10documentIDSiSgvM",
                 "moduleName": "Abyan",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -33006,6 +35536,1216 @@
                 "declKind": "Accessor",
                 "usr": "s:5Abyan0A15KYCDynamicFieldV17selectedImageNameSSSgvM",
                 "mangledName": "$s5Abyan0A15KYCDynamicFieldV17selectedImageNameSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNeedUpdate",
+            "printedName": "isNeedUpdate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV12isNeedUpdateSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNewField",
+            "printedName": "isNewField",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV05isNewC0SbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isAPIIntegration",
+            "printedName": "isAPIIntegration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV16isAPIIntegrationSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isRowNeedUpdate",
+            "printedName": "isRowNeedUpdate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV15isRowNeedUpdateSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNewRow",
+            "printedName": "isNewRow",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV8isNewRowSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isNeedVerfication",
+            "printedName": "isNeedVerfication",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV17isNeedVerficationSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isHint",
+            "printedName": "isHint",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV6isHintSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV6isHintSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV6isHintSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV6isHintSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV6isHintSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV6isHintSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV6isHintSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV6isHintSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "requiredToApproved",
+            "printedName": "requiredToApproved",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV18requiredToApprovedSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "placeHolder",
+            "printedName": "placeHolder",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV11placeHolderSSSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "enable24Hours",
+            "printedName": "enable24Hours",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enable24HoursSbSgvM",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "enableSeconds",
+            "printedName": "enableSeconds",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvp",
+            "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvp",
+            "moduleName": "Abyan",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvg",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvg",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvs",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvs",
+                "moduleName": "Abyan",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvM",
+                "mangledName": "$s5Abyan0A15KYCDynamicFieldV13enableSecondsSbSgvM",
                 "moduleName": "Abyan",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -34159,6 +37899,43 @@
             "declKind": "EnumElement",
             "usr": "s:5Abyan0A12KYCFieldTypeO10textEditoryA2CmF",
             "mangledName": "$s5Abyan0A12KYCFieldTypeO10textEditoryA2CmF",
+            "moduleName": "Abyan"
+          },
+          {
+            "kind": "Var",
+            "name": "yesNo",
+            "printedName": "yesNo",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Abyan.AbyanKYCFieldType.Type) -> Abyan.AbyanKYCFieldType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AbyanKYCFieldType",
+                    "printedName": "Abyan.AbyanKYCFieldType",
+                    "usr": "s:5Abyan0A12KYCFieldTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Abyan.AbyanKYCFieldType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AbyanKYCFieldType",
+                        "printedName": "Abyan.AbyanKYCFieldType",
+                        "usr": "s:5Abyan0A12KYCFieldTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:5Abyan0A12KYCFieldTypeO5yesNoyA2CmF",
+            "mangledName": "$s5Abyan0A12KYCFieldTypeO5yesNoyA2CmF",
             "moduleName": "Abyan"
           },
           {
@@ -44550,133 +48327,140 @@
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1577,
+      "offset": 2451,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1599,
+      "offset": 2473,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1621,
+      "offset": 2495,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1646,
+      "offset": 2520,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1668,
+      "offset": 2542,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1689,
+      "offset": 2563,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1707,
+      "offset": 2581,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1726,
+      "offset": 2600,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1747,
+      "offset": 2621,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1765,
+      "offset": 2639,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1785,
+      "offset": 2659,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1808,
+      "offset": 2682,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1828,
+      "offset": 2702,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1849,
+      "offset": 2723,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1870,
+      "offset": 2744,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1892,
+      "offset": 2766,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1917,
+      "offset": 2791,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1987,
+      "offset": 2811,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2886,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/amani\/Documents\/abyan-check-ios\/Abyan\/Models\/AbyanKYCFieldModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2010,
+      "offset": 2909,
       "length": 1,
       "value": "2"
     },
